@@ -2,14 +2,14 @@
 	"schemaVersion": 1,
 	"id": "flextools",
 	"version": "${version}",
-	"name": "flextools",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Flex Tools",
+	"description": "javaの練習(技術習得) ＋ 自分のほしい機能を詰め込むこむ為に作ったMODです。",
 	"authors": [
-		"Me!"
+		"rado1049"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/radolemon/FlexTools.git"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/flextools/icon.png",

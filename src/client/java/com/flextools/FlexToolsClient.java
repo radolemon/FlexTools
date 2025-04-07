@@ -20,6 +20,9 @@ public class FlexToolsClient implements ClientModInitializer {
 		LOGGER.info("> Config Load...");
 		Config.configLoad();
 
+		LOGGER.info("> Commands Register...");
+		CommandsRegister.register();
+
 		ClientPlayConnectionEvents.JOIN.register((handler, sender, client) -> {
 			String serverId = client.getCurrentServerEntry().address;
 			LOGGER.info(String.format("Join to Server: %s", serverId));

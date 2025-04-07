@@ -8,8 +8,8 @@
 		"rado1049"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/radolemon/FlexTools.git"
+		"sources": "https://github.com/radolemon/FlexTools.git",
+		"issues": "https://github.com/radolemon/FlexTools/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/flextools/icon.png",
